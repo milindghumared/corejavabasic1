@@ -5,22 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5556116-9cf7-4345-9571-c003e3690e44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/corejavabasic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassMultiLevelInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Herarchicalinheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodOverloding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrivateModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingleInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TryCatchExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/Drawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/TestEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -52,9 +46,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CustomException">
-    <configuration name="ClassOverrding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassOverrding" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ClassConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassConstructor" />
       <module name="corejavabasic" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,34 +61,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Herarchicalinheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Herarchicalinheritance" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learning.Main" />
+      <module name="corejavabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchStatement" />
       <module name="corejavabasic" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MethodOverloading" />
+    <configuration name="TestEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learning.TestEmployee" />
       <module name="corejavabasic" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TryCatchExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TryCatchExample1" />
-      <module name="corejavabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestEmployee" />
+        <item itemvalue="Application.ClassConstructor" />
+        <item itemvalue="Application.SwitchStatement" />
         <item itemvalue="Application.CustomException" />
-        <item itemvalue="Application.TryCatchExample1" />
-        <item itemvalue="Application.ClassOverrding" />
-        <item itemvalue="Application.MethodOverloading" />
-        <item itemvalue="Application.Herarchicalinheritance" />
       </list>
     </recent_temporary>
   </component>
